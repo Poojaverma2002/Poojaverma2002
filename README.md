@@ -43,4 +43,4 @@ Portfolio: [https://your-vercel-link](https://www.wscubetech.com/portfolio/web-d
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojaverma2002&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojaverma2002&layout=compact)
