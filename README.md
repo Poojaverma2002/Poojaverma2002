@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Pooja Verma 👋
 
-<!--
-**Poojaverma2002/Poojaverma2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Next.js | React | Tailwind CSS
 
-Here are some ideas to get you started:
+I build modern, scalable, and performance-optimized web applications with clean UI and structured architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+🔹 Festo – Food Delivery App
+
+Built using Next.js with API integration and cart functionality using Context API.
+
+🔹 Blinkit Clone – Grocery Delivery App
+
+Developed with Next.js featuring dynamic routing, API integration, and global cart state management.
+
+🔹 Myntra Clone – E-commerce UI
+
+Multi-page responsive website built using HTML & CSS.
+
+🛠 Tech Stack
+
+Next.js
+
+React.js
+
+JavaScript
+
+Tailwind CSS
+
+Context API
+
+Git
+
+📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/pooja-verma-a2390b259
+
+Portfolio: [https://your-vercel-link](https://www.wscubetech.com/portfolio/web-development/pooja-verma-7nd73ak)
+
+## 📊 GitHub Stats
+
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojaverma2002&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaverma2002&layout=compact&theme=radical)
