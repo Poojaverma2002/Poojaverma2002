@@ -39,8 +39,8 @@ Portfolio: [https://your-vercel-link](https://www.wscubetech.com/portfolio/web-d
 
 ## 📊 GitHub Stats
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojaverma2002&show_icons=true&theme=radical)
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojaverma2002&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojaverma2002&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojaverma2002&layout=compact&theme=radical&cache_seconds=1800)
